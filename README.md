@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/blobysoftware/img/master/alteris.png" width="500">
+  <img src="https://raw.githubusercontent.com/blobysoftware/img/master/alteris.png" width="200">
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/license-MIT-blue.svg">
