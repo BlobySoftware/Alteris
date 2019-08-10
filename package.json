@@ -1,7 +1,7 @@
 {
   "name": "alteris",
-  "version": "1.0.0",
-  "description": "Javascript data convertion",
+  "version": "1.0.2",
+  "description": "Javascript data compatibility, and data convertions in objects prototypes.",
   "main": "alteris.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

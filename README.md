@@ -1,4 +1,12 @@
-# Alteris
+<div align="center">
+  <img src="https://raw.githubusercontent.com/blobysoftware/img/master/alteris.png" width="500">
+  <br/>
+  <br/>
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg">
+  <img src="https://img.shields.io/badge/build-passing-brightgreen.svg">
+  <img src="https://badge.fury.io/js/alteris.svg">
+</div>
+
 #### Alteris is a javascript data parsed, merge the simplicity of other lenguages in just 1kb 👌, this library its build on ES6 for better performance 💪, you can get all data compatibility for javascript objects. ⚡ 
 
 ### Install 🌍
@@ -17,7 +25,7 @@ https://blobysoftware.github.io/Alteris/alteris.js
 
 ### Using 🛠️
 Import functions
-``` JavaScript 
+```javaScript 
 import * from 'alteris' 
 ```
 Or use script tag for local
@@ -26,7 +34,7 @@ Or use script tag for local
 ```
 
 #### Object Convertions:
-```JavaScript
+```javaScript
 let obj = { name:'Alex', pass:123}
 
 \\Obj to array
@@ -38,7 +46,7 @@ obj.toString(); \\"name:alex, pass:123"
 ```
 
 #### Array Convertions:
-```JavaScript
+```javaScript
 let arry = ["a", "l", "t", "v", "1", 3];
 
 \\Arry to string
@@ -53,7 +61,7 @@ arry.slice(3,6).toInt() \\13
 ```
 
 #### String Convertions:
-```JavaScript
+```javaScript
 let str = "hello world, :3"
 
 \\Str to array
@@ -73,7 +81,7 @@ str.toObject(true) \\ {0:"h", 1:"e", 2:"l", 3:"l", 4:"o" ...}
 * You can select the separator of words in array convertion
 
 #### Number Convertions:
-```JavaScript
+```javaScript
 let num = 3577
 
 \\Num to array
