@@ -84,7 +84,4 @@ MIT 2019 all rights reserved.
 
 ### Author
 BlobySoftware®, Alex Santos
-<<<<<<< HEAD
 
-=======
->>>>>>> 08f1f801c8f3d38092cfe54d3d5a4db02c5689de
