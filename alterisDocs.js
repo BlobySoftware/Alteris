@@ -34,6 +34,7 @@ String.prototype.toInt=function(){
 String.prototype.toArray=function(str=false){
     let arry = [];
     if(str) return this.split(" ");
+    else if(typeof(str) === "string") return this.split(str);
     else{
         for(let i = 0 ; i < this.length ;i++) arry.push(this.charAt(i));
         return arry;
