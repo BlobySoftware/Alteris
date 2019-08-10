@@ -1,0 +1,22 @@
+{
+  "name": "alteris",
+  "version": "1.0.0",
+  "description": "Javascript data convertion",
+  "main": "alteris.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlobySoftware/Alteris.git"
+  },
+  "keywords": [
+    "alter"
+  ],
+  "author": "BlobySoftware",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlobySoftware/Alteris/issues"
+  },
+  "homepage": "https://github.com/BlobySoftware/Alteris#readme"
+}
