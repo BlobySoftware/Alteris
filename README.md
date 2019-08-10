@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/blobysoftware/img/master/alteris.png" width="500">
+  <img src="https://raw.githubusercontent.com/blobysoftware/img/master/alteris.png" width="200">
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/license-MIT-blue.svg">
@@ -26,7 +26,8 @@ https://blobysoftware.github.io/Alteris/alteris.js
 
 ### Using 🛠️
 Import functions
-```javaScript 
+
+```javascript 
 import * from 'alteris' 
 ```
 Or use script tag for local
@@ -35,7 +36,8 @@ Or use script tag for local
 ```
 
 #### Object Convertions:
-```javaScript
+
+```javascript
 let obj = { name:'Alex', pass:123}
 
 \\Obj to array
@@ -47,7 +49,8 @@ obj.toString(); \\"name:alex, pass:123"
 ```
 
 #### Array Convertions:
-```javaScript
+
+```javascript
 let arry = ["a", "l", "t", "v", "1", 3];
 
 \\Arry to string
@@ -62,7 +65,8 @@ arry.slice(3,6).toInt() \\13
 ```
 
 #### String Convertions:
-```javaScript
+
+```javascript
 let str = "hello world, :3"
 
 \\Str to array
@@ -82,7 +86,8 @@ str.toObject(true) \\ {0:"h", 1:"e", 2:"l", 3:"l", 4:"o" ...}
 * You can select the separator of words in array convertion
 
 #### Number Convertions:
-```javaScript
+
+```javascript
 let num = 3577
 
 \\Num to array
