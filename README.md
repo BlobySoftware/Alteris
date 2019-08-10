@@ -80,4 +80,7 @@ num.toObject(); \\{3: 5, 7: 7}
 ```
 -------------
 ### LICENSE
-MIT
+MIT 2019 all rights reserved. 
+
+### Author
+BlobySoftware®, Alex Santos
