@@ -10,11 +10,19 @@ Local install
 ```
 git clone https://github.com/BlobySoftware/Alteris.git
 ```
+CDN
+```
+https://blobysoftware.github.io/Alteris/alteris.js
+```
 
 ### Using 🛠️
 Import functions
 ``` JavaScript 
 import * from 'alteris' 
+```
+Or use script tag for local
+```html
+<script href='https://blobysoftware.github.io/Alteris/alteris.js'></script>
 ```
 
 #### Object Convertions:
