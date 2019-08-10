@@ -1,6 +1,6 @@
 {
   "name": "alteris",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "description": "Javascript data compatibility, and data convertions in objects prototypes.",
   "main": "alteris.js",
   "scripts": {
