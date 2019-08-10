@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="https://raw.githubusercontent.com/blobysoftware/img/master/alteris.png" width="500">
   <br/>
@@ -5,6 +6,10 @@
   <img src="https://img.shields.io/badge/license-MIT-blue.svg">
   <img src="https://img.shields.io/badge/build-passing-brightgreen.svg">
   <img src="https://badge.fury.io/js/alteris.svg">
+=======
+<div align="center">                                                         <img src="https://raw.githubusercontent.com/blobysoftware/img/master/alteris.png" width="500">                                                        <br/>
+  <br/>                                                                      <img src="https://img.shields.io/badge/license-MIT-blue.svg">              <img src="https://img.shields.io/badge/build-passing-brightgreen.svg">     <img src="https://badge.fury.io/js/alteris.svg">
+>>>>>>> 85733717449e63da6800d315b218b647969e280f
 </div>
 
 #### Alteris is a javascript data parsed, merge the simplicity of other lenguages in just 1kb 👌, this library its build on ES6 for better performance 💪, you can get all data compatibility for javascript objects. ⚡ 
