@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/blobysoftware/img/master/alteris.png" width="200">
+  <img src="https://raw.githubusercontent.com/BlobySoftware/img/master/alteris.png" width="200">
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/license-MIT-blue.svg">
@@ -104,6 +104,6 @@ num.toObject(); \\{3: 5, 7: 7}
 ### LICENSE
 MIT 2019 all rights reserved. 
 
-### Author
+### AUTHOR
 BlobySoftware®, Alex Santos
 
